@@ -11,9 +11,11 @@ git clone https://github.com/DecodedTrojans/Ender.git
 ```
 
 ## Usage
-```bash
+```sh
 $ ./ender target.com
-
+```
+## OutPut
+```bash
 [+]Checking the Internet Connection ...
 Internet Check Done [✓]
 [+]Checking the Domain.
@@ -23,7 +25,6 @@ Domain Check Done[✓]
 [+]Searching The SQL parameters From The Input File target.txt.
 [-]Found Zero SQL Errors in the target.com
 ```
-
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
