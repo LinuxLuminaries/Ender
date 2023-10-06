@@ -16,7 +16,7 @@ git clone https://github.com/DecodedTrojans/Ender.git
 $ ./ender target.com
 ```
 
-## OutPut
+## Output
 
 ```bash
 [+]Checking the Internet Connection ...
