@@ -46,7 +46,7 @@ else
 	url=$1
 fi
 
-folder=ender_output
+folder=Ender
 domain=$(echo "$url" | cut -d'.' -f1)
 sleep 1
 
